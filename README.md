@@ -1,5 +1,9 @@
 <h1> SynSin: End-to-end View Synthesis from a Single Image (CVPR 2020) </h1>
 
+<a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/drive/1w62hhT4ZdNfmzdHiLYuoCXUCQjImZ_N2">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 This is the code for the [CVPR 2020 paper](https://arxiv.org/abs/1912.08804).
 This code allows for synthesising of new views of a scene given a single image of an <em>unseen</em> scene at test time.
 It is trained with pairs of views in a self-supervised fashion.
